@@ -3,7 +3,7 @@
 
 Watch the video walk through ![here](./ReadmeImages/gif.gif)
 
-Explore the [Deployed Fitness Tracker on Heroku](https://fitnesstrackerSUZY.herokuapp.com/)
+Explore the [Deployed Fitness Tracker on Heroku](https://fitnesstrackersuzy.herokuapp.com/)
 
 View the [Fitness TRacker Github page](https://github.com/suzylebel/fitness-tracker)
 
@@ -30,7 +30,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 Check out the 
 
-Explore the [Deployed NOte Taker on Heroku](https://fitnesstrackerSUZY.herokuapp.com/)
+Explore the [Deployed NOte Taker on Heroku](https://fitnesstrackersuzy.herokuapp.com/)
 
 This MongoDB application is for users to track their fitness goals! 
 

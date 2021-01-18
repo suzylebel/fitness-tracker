@@ -3,7 +3,10 @@ let db = require("../models");
 
 mongoose.connect("mongodb://localhost/workoutdb", {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
+  // useNewUrlParser: true, 
+  // useUnifiedTopology: true, 
+  // useCreateIndex: true
 });
 
 let workoutSeed = [

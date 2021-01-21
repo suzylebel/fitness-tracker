@@ -15,7 +15,7 @@ const workoutSchema = new Schema({
             name: {
                 type: String
             },
-            duration: {
+            totalDuration: {
                 type: Number
                 // add required for all
             },

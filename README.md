@@ -34,6 +34,7 @@ Explore the [Deployed NOte Taker on Heroku](https://fitnesstrackersuzy.herokuapp
 
 This MongoDB application is for users to track their fitness goals! 
 
+Screen shot of Deployed Application ![here](./ReadmeImages/dashboard.png)
 
 
 
@@ -43,7 +44,7 @@ Mongoose, Logger, MONGODB
 
 ## Code Breakdown
 
-
+As some of the frontend code was given to us we were responsible for updating the routes, using mongoose, and deploying to a virtual database!
 
 
 
@@ -62,4 +63,6 @@ suzy.lebel@gmail.com
 
 
 ## Credit
+
+
 
